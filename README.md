@@ -16,7 +16,10 @@ Type |	When to Use |	Example
 | revert|	When reverting a previous commit |	revert: undo authentication feature |
 
 ## 📌 Best Practices
-- ✔ Use short, imperative phrases ("Add feature X", not "Adding feature X")
-- ✔ Include a scope when relevant (feat(auth):, fix(cart):)
-- ✔ Avoid vague commits like fix bug or update
-- ✔ Break large changes into smaller, more descriptive commits
+✔ Use short, imperative phrases ("Add feature X", not "Adding feature X")
+
+✔ Include a scope when relevant (feat(auth):, fix(cart):)
+
+✔ Avoid vague commits like fix bug or update
+
+✔ Break large changes into smaller, more descriptive commits
